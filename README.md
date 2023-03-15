@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 
-### A <a href="https://www.linkedin.com/in/akandeayobami/" target="_blank">software engineer</a> passionate about making products and learning new tech.
+### I, BeejayDev is a Full stack Developer with a wide array of skills which he uses to build and deploy next level 
+
+### Application and web Apps.
 
 ### I'm Poised to transition to **Senior Full Stack Engineer** along the line. 
 
@@ -26,14 +28,12 @@ You can click the Preview link to take a look at your changes.
 ![Visitor Badge](https://komarev.com/ghpvc/?username=BeejayDev&color=red&style=plastic)
 [![trophy](https://github-profile-trophy.vercel.app/?username=BeejayDev)](https://github.com/BeejayDev/github-profile-trophy)
 
-BeejayDev is a Full stack Developer with a wide array of skills which he uses to build and deploy next level Application and web Apps.
-
 
 ## 🎉 Skills
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=plastic&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-white?style=plastic&logo=Keras&logoColor=red)
+![react](https://img.shields.io/badge/-React-white?style=plastic&logo=react)
+![Redux](https://img.shields.io/badge/-Redux?style=plastic&logo=redux&logoColor=red)
 ![Pandas](https://img.shields.io/badge/-Pandas-red?style=plastic&logo=pandas) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=plastic&logo=seaborn)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=plastic&logo=matplotlib)
