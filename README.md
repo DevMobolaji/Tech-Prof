@@ -110,18 +110,3 @@ Do you see me as a great addition to your team?
 
 ## ☀️ Recent Activities
 [![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeejayDev&theme=github)](https://github.com/BeejayDev/github-readme-activity-graph)
-
-
-Here are some ideas to get you started:
-
-👋 Hi, I’m @BeejayDev
-- 😄 I'm interested in mobile development, backend development, frontend development and ui/ux.
-- 🌱 I’m currently learning cloud devops
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me alan08037896270@outlook.com
-- 🔭 I’m currently working on Intermediate Graphql E-commerce project...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
