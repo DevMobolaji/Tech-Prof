@@ -23,46 +23,89 @@ You can click the Preview link to take a look at your changes.
 
 ### I find most of my enjoyable moments when spent with others and I love to code !
 
-# 📊 GitHub Stats:
-<table width="100%">
-<tr>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techproff&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000" />
-   </td>
-   <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techproff&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000"/>
-   </td>
-</tr>
-<table>
-  # 📚 Languages, Frameworks and Libraries
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechProff)
+![Visitor Badge](https://komarev.com/ghpvc/?username=TechProff&color=red&style=plastic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TechProff)](https://github.com/TechProff/github-profile-trophy)
 
-# 📚 Languages, Frameworks and Libraries
-![express](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![graphql](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Typescript](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![mongodb](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![postgresql](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+Samson is a machine learning engineer with a wide array of skills which he uses to build and deploy machine learning models.
 
-# ☁️ Hosting/SaaS
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![aws](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![docker](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-#  🥅 Other
-![ASANA](https://img.shields.io/badge/-ASANA-%23f06a6a) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-   # 💬 Social
-   <div>
-      <a target="_blank" href="https://twitter.com/akandealabi1">
-         <img alt="Twitter - Ayobami" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-      </a>
-       <a stysle="display:inline" target="_blank" href="https://www.youtube.com/channel/UCrM3QsOWUuf3DpPY8popD5Q">
-         <img alt="YouTube King" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-      </a>
-      <a target="_blank" href="https://www.linkedin.com/in/akandeayobami/">
-   <img alt="LinkedIn - Ayobami" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-   </div>
+Samson enjoys working on a library he's developing for machine learning, MultiTrain.
 
 
+## 🎉 Skills
+![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) 
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=plastic&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-white?style=plastic&logo=Keras&logoColor=red)
+![Pandas](https://img.shields.io/badge/-Pandas-red?style=plastic&logo=pandas) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=plastic&logo=seaborn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=plastic&logo=matplotlib)
+![Plotly](https://img.shields.io/badge/-Plotly-white?style=plastic&logo=plotly&logoColor=blue)
+![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=plastic&logo=Streamlit) 
+![Heroku](https://img.shields.io/badge/-Heroku-purple?style=plastic&logo=heroku)
+![scikit-Learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker&logoColor=white)
 
-<!--
-**kdgyimah/kdgyimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Programming
+   > Python
+2. Data Analysis
+   > Pandas, Seaborn, Matplotlib, Plotly
+3. Data Cleaning
+   > Pandas
+4. Building web applications
+   > Streamlit
+5. Model Deployment
+   > Streamlit Sharing, Heroku, Docker, Kubernetes, Google Cloud Platform
+6. Building AI models
+   > Scikit-Learn, Keras, Tensorflow, KerasNLP
+7. Version Control
+   > Git and GitHub
+8. API
+   > Flask, FastAPI
+## Projects
+1. Currently working on on building a machine learning library
+   > In order to make testing several machine learning models on a dataset easier, [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models) was developed. Using [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models), you may retrieve a dataframe with all machine learning models available for the task and the outcomes of their evaluation metrics with only one line of code.
+ 
+
+
+## 📋 Goals
+   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+1. Level up my skills in python from intermediate to advanced.
+
+
+## 😄 Core Interests
+1. Natural Language Processing
+2. Reinforcement Learning
+3. Deep Reinforcement Learning
+
+
+## 🔎 Looking for
+1. Internship opportunities.
+2. Co-Founder positions
+3. Full time jobs
+
+
+## 📳 Contact Me
+Do you see me as a great addition to your team?
+1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
+   > [**Send a Message**](https://wa.me/2349070766308)
+2. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
+   > <a href="mailto:tunexo885@gmail.com">**Send an Email**</a>
+3. ![Twitter](https://img.shields.io/badge/-Twitter-white?style=social&logo=twitter)
+   > [**Send a DM**](https://twitter.com/samsonshittu51?t=4KRVUYE4kdjvDb-pbQN_rQ&s=09)
+     
+## 👨‍💻 Github Stats:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
+
+## 📖 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
+
+## 🌠 Streaks
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOVE-DOCTOR&theme=dark)](https://git.io/streak-stats)
+
+## ☀️ Recent Activities
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=LOVE-DOCTOR&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
+
 
 Here are some ideas to get you started:
 
