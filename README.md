@@ -1,19 +1,7 @@
-<!-- - 👋 Hi, I’m @Tech Prof
-- 😄 I'm interested in mobile development, backend development, and ui/ux.
-- 🌱 I’m currently learning cloud devops
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me alan08037896270@outlook.com
--->
-<!---
-TechProf/TechProf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ### Hi there 👋 I'M ODERINDE IBRAHIM
 
-
-<a target="_blank" href="https://www.linkedin.com/in/akandeayobami/">
-   <img alt="LinkedIn - Ayobami" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a target="_blank" href="https://www.linkedin.com/in/ibrahim-oderinde-96848a1a6/">
+   <img alt="LinkedIn - BeejayDev" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
@@ -33,62 +21,80 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github)
 ![react](https://img.shields.io/badge/-React-white?style=plastic&logo=react)
-![Redux](https://img.shields.io/badge/-Redux?style=plastic&logo=redux&logoColor=red)
-![Pandas](https://img.shields.io/badge/-Pandas-red?style=plastic&logo=pandas) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-lightgrey?style=plastic&logo=seaborn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-lightgrey?style=plastic&logo=matplotlib)
-![Plotly](https://img.shields.io/badge/-Plotly-white?style=plastic&logo=plotly&logoColor=blue)
-![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=plastic&logo=Streamlit) 
+![Redux](https://img.shields.io/badge/-Redux-toolkit?style=plastic&logo=redux&logoColor=red)
+![firebase](https://img.shields.io/badge/-firebase-red?style=plastic&logo=firebase) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-lightgrey?style=plastic&logo=nodejs)
+![Typescript](https://img.shields.io/badge/-Typescript-lightgrey?style=plastic&logo=Typescript)
+![Django](https://img.shields.io/badge/-Django-lightgrey?style=plastic&logo=Django)
+![Graphql](https://img.shields.io/badge/-Graphql-white?style=plastic&logo=Graphql&logoColor=blue)
+![Express](https://img.shields.io/badge/-Express-black?style=plastic&logo=Express) 
+![MongoDB](https://img.shields.io/badge/-Mongo?style=plastic&logo=Mongodb) 
+![Postgresql](https://img.shields.io/badge/-Postgresql-white?style=plastic&logo=Postgresql) 
+![jest](https://img.shields.io/badge/-jest-grey?style=plastic&logo=jest) 
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=plastic&logo=heroku)
-![scikit-Learn](https://img.shields.io/badge/-scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![Aws](https://img.shields.io/badge/-aws-%23F7931E.svg?style=plastic&logo=AWS&logoColor=red)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-white?style=plastic&logo=TypeORM&logoColor=white)
 
 1. Programming
-   > Python
-2. Data Analysis
-   > Pandas, Seaborn, Matplotlib, Plotly
-3. Data Cleaning
-   > Pandas
-4. Building web applications
-   > Streamlit
-5. Model Deployment
-   > Streamlit Sharing, Heroku, Docker, Kubernetes, Google Cloud Platform
-6. Building AI models
-   > Scikit-Learn, Keras, Tensorflow, KerasNLP
+   > Python Javascript, Typescript
+2. FrontEnd
+   > React, Tailwind, styled Component, Redux-toolkit
+3. Back End
+   > NodeJS Express Django
+4. Database
+   > MongoDB PostgreSQL
+5. Deployment
+   > Heroku, Docker, Kubernetes, Google Cloud Platform
+6. ORM
+   > TypeORM
 7. Version Control
    > Git and GitHub
 8. API
-   > Flask, FastAPI
+   > Graphql, FastAPI, RESTful API
 ## Projects
-1. Currently working on on building a machine learning library
-   > In order to make testing several machine learning models on a dataset easier, [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models) was developed. Using [MultiTrain](https://github.com/LOVE-DOCTOR/train-with-models), you may retrieve a dataframe with all machine learning models available for the task and the outcomes of their evaluation metrics with only one line of code.
+1. Currently working on on building an Intermediate Graphql E-Commerce Server
+   > This is an Ecommerce API built on the powerful graphql server due to it robustness and easy querying of data from the server and database, [Ecommerce](https://github.com/BeejayDev/Graphql-ts-server) was developed. Using [Ecommerce](https://github.com/BeejayDev/Graphql-ts-server), This is a public project you may clone the project and use in your project just install the necessary dependencies give it a star when ever you wanna use the project.
+
+2. Built An expense tracker API using Django/Python
+   > In order for users to keep track of their expenses and Income and how they spend money and recieve funds, [Expense](https://github.com/BeejayDev/Python-Inventory-Backend) was developed. Using [Expense](https://github.com/BeejayDev/Python-Inventory-Backend), This is a public project you may clone the project and use in your project just install the necessary dependencies give it a star when ever you wanna use the project.
+
+3. Built An Authentication system using Typescript and nodejs/Express and JWT
+   > In order for users to keep track of their expenses and Income and how they spend money and recieve funds, [Authentication](https://github.com/BeejayDev/Typescript-Node-Backend) was developed. Using [Authentication](https://github.com/BeejayDev/Typescript-Node-Backend), This is a public project you may clone the project and use in your project just install the necessary dependencies give it a star when ever you wanna use the project.
  
 
 
 ## 📋 Goals
    ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
+   ![Javascript](https://img.shields.io/badge/-Javascript-lightgrey?style=plastic&logo=Javascript)
+   ![Typescript](https://img.shields.io/badge/-Typescript-grey?style=plastic&logo=Typescript)
 1. Level up my skills in python from intermediate to advanced.
+2. Level up my skills in Javascript from intermediate to advanced.
+3. level up my Data structures and Algorithm skill and be a beast in it.
+4. learn Mobile Development using REACT-NATIVE
+5. learn Blockchain development
 
 
 ## 😄 Core Interests
-1. Natural Language Processing
-2. Reinforcement Learning
-3. Deep Reinforcement Learning
+1. Backend Development
+2. Blockchain Develoment
+3. Mobile Development
 
 
 ## 🔎 Looking for
 1. Internship opportunities.
 2. Co-Founder positions
-3. Full time jobs
+3. Collaborations
+4. Full time jobs
 
 
 ## 📳 Contact Me
 Do you see me as a great addition to your team?
 1. ![WhatsApp](https://img.shields.io/badge/-WhatsApp-lightgrey?style=social&logo=whatsapp) 
-   > [**Send a Message**](https://wa.me/2349070766308)
+   > [**Send a Message**](https://wa.me/2348114897957)
 2. ![Gmail](https://img.shields.io/badge/-Gmail-white?style=social&logo=gmail)
-   > <a href="mailto:tunexo885@gmail.com">**Send an Email**</a>
+   > <a href="mailto:alan08037896270@outlook.com">**Send an Email**</a>
 3. ![Twitter](https://img.shields.io/badge/-Twitter-white?style=social&logo=twitter)
    > [**Send a DM**](https://twitter.com/samsonshittu51?t=4KRVUYE4kdjvDb-pbQN_rQ&s=09)
      
@@ -102,7 +108,7 @@ Do you see me as a great addition to your team?
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeejayDev&theme=dark)](https://git.io/streak-stats)
 
 ## ☀️ Recent Activities
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeejayDev&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeejayDev&theme=github)](https://github.com/BeejayDev/github-readme-activity-graph)
 
 
 Here are some ideas to get you started:
