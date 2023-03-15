@@ -23,12 +23,10 @@ You can click the Preview link to take a look at your changes.
 
 ### I find most of my enjoyable moments when spent with others and I love to code !
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=TechProff&color=red&style=plastic)
-[![trophy](https://github-profile-trophy.vercel.app/?username=TechProff)](https://github.com/TechProff/github-profile-trophy)
+![Visitor Badge](https://komarev.com/ghpvc/?username=BeejayDev&color=red&style=plastic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BeejayDev)](https://github.com/BeejayDev/github-profile-trophy)
 
-Samson is a machine learning engineer with a wide array of skills which he uses to build and deploy machine learning models.
-
-Samson enjoys working on a library he's developing for machine learning, MultiTrain.
+BeejayDev is a Full stack Developer with a wide array of skills which he uses to build and deploy next level Application and web Apps.
 
 
 ## 🎉 Skills
@@ -95,22 +93,22 @@ Do you see me as a great addition to your team?
    > [**Send a DM**](https://twitter.com/samsonshittu51?t=4KRVUYE4kdjvDb-pbQN_rQ&s=09)
      
 ## 👨‍💻 Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LOVE-DOCTOR&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BeejayDev&count_private=true&show_icons=true&include_all_commits=true)
 
 ## 📖 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LOVE-DOCTOR&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeejayDev&hide=TeX&layout=compact)
 
 ## 🌠 Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LOVE-DOCTOR&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeejayDev&theme=dark)](https://git.io/streak-stats)
 
 ## ☀️ Recent Activities
-[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=LOVE-DOCTOR&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
+[![My Activity Graph](https://activity-graph.herokuapp.com/graph?username=BeejayDev&theme=github)](https://github.com/LOVE-DOCTOR/github-readme-activity-graph)
 
 
 Here are some ideas to get you started:
 
-👋 Hi, I’m @Tech Prof
-- 😄 I'm interested in mobile development, backend development, and ui/ux.
+👋 Hi, I’m @BeejayDev
+- 😄 I'm interested in mobile development, backend development, frontend development and ui/ux.
 - 🌱 I’m currently learning cloud devops
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me alan08037896270@outlook.com
