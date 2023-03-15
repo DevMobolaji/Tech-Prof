@@ -24,35 +24,36 @@
 ![Redux](https://img.shields.io/badge/-Redux-toolkit?style=plastic&logo=redux&logoColor=red)
 ![firebase](https://img.shields.io/badge/-firebase-red?style=plastic&logo=firebase) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-lightgrey?style=plastic&logo=nodejs)
-![Typescript](https://img.shields.io/badge/-Typescript-lightgrey?style=plastic&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=plastic&logo=Typescript)
 ![Django](https://img.shields.io/badge/-Django-lightgrey?style=plastic&logo=Django)
 ![Graphql](https://img.shields.io/badge/-Graphql-white?style=plastic&logo=Graphql&logoColor=blue)
 ![Express](https://img.shields.io/badge/-Express-black?style=plastic&logo=Express) 
-![MongoDB](https://img.shields.io/badge/-Mongo?style=plastic&logo=Mongodb) 
+![Mongodb](https://img.shields.io/badge/-Mongodb-lightgrey?style=plastic&logo=Mongodb)  
 ![Postgresql](https://img.shields.io/badge/-Postgresql-white?style=plastic&logo=Postgresql) 
 ![jest](https://img.shields.io/badge/-jest-grey?style=plastic&logo=jest) 
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=plastic&logo=heroku)
-![Aws](https://img.shields.io/badge/-aws-%23F7931E.svg?style=plastic&logo=AWS&logoColor=red)
+![Aws](https://img.shields.io/badge/-AWS-%23F7931E.svg?style=plastic&logo=AWS&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-white?style=plastic&logo=TypeORM&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=plastic&logo=TypeORM&logoColor=white)
 
 1. Programming
-   > Python Javascript, Typescript
+   > Python, Javascript, Typescript
 2. FrontEnd
    > React, Tailwind, styled Component, Redux-toolkit
 3. Back End
-   > NodeJS Express Django
+   > NodeJS, Express, Django
 4. Database
-   > MongoDB PostgreSQL
+   > MongoDB, PostgreSQL
 5. Deployment
-   > Heroku, Docker, Kubernetes, Google Cloud Platform
+   > Heroku, Docker, Kubernetes, Google Cloud Platform, AWS
 6. ORM
    > TypeORM
 7. Version Control
    > Git and GitHub
 8. API
    > Graphql, FastAPI, RESTful API
+   
 ## Projects
 1. Currently working on on building an Intermediate Graphql E-Commerce Server
    > This is an Ecommerce API built on the powerful graphql server due to it robustness and easy querying of data from the server and database, [Ecommerce](https://github.com/BeejayDev/Graphql-ts-server) was developed. Using [Ecommerce](https://github.com/BeejayDev/Graphql-ts-server), This is a public project you may clone the project and use in your project just install the necessary dependencies give it a star when ever you wanna use the project.
